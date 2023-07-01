@@ -5,6 +5,8 @@ at the other player's ships, and the objective of the game is to destroy the opp
 of the game in Java.
 ## Screenshots:
 ![screenshot](https://user-images.githubusercontent.com/111454100/226717777-53518030-17fa-40ac-a5f6-a21b105d4abd.png)
+## Demo:
+You can play the game on Replit by clicking [here](https://replit.com/@akispapapanagio/Battleship?v=1).
 ## Built with:
 * Java
 * NetBeans IDE
